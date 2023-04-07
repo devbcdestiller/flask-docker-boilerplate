@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pycryptodome = "*"
+flask = "~=2.2.3"
+requests = "*"
 
 [dev-packages]
 
